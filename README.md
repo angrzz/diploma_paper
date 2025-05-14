@@ -1,1 +1,1 @@
-# diploma_paper
+# diploma-paper
